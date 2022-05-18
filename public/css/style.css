@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
+html{
+    height: 100%;
+    cursor: url("");
+}
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.row-header{
+    height: 100vh;
+}
+.login-page-text{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    line-height: 32px;  
+    margin-left: 5%;
+}
